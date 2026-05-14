@@ -18,16 +18,34 @@ SQL · MySQL · PostgreSQL · Database Design · Normalization · ER Modeling ·
 
 📂 Repository Structure
 📦 WPI-CS542
- ┣ 📄 Zongyu_Mu_assignment1-1.zip
- ┣ 📄 ZongyuMu-assignment2.zip
- ┣ 📄 CS542-GP-Phase2-Group2.zip
- ┣ 📄 cs542gp_project.zip
- ┣ 📄 hw3-ZongyuMu.zip
+ ┣ 📄 Zongyu_Mu_part1.pdf
+ ┣ 📄 Zongyu_Mu_part2_problem1-3.pdf
+ ┣ 📄 Zongyu_Mu_part2_problem4.sql
+ ┣ 📄 Zongyu_Mu_part1.pdf
+ ┣ 📄 Zongyu_Mu_part1_problem4.sql
+ ┣ 📄 Zongyu_Mu_part2.pdf
+ ┣ 📄 Zongyu_Mu_part2_problem3.sql
+ ┣ 📄 ._CS542-GP-Phase2-Project Progress Report Document.pdf
+ ┣ 📄 ._CS542-GP-Phase2-Project Progress Report Slide.pdf
+ ┣ 📄 ._ERD_Diagram.jpeg
+ ┣ 📄 ._Normalized DB.xlsx
+ ┣ 📄 ._UI Sample.pdf
+ ┣ 📄 ._UML.jeg
+ ┣ 📄 ._video_link.txt
+ ┣ 📄 CS542-GP-Phase2-Project Progress Report Document.pdf
+ ┣ 📄 CS542-GP-Phase2-Project Progress Report Slide.pdf
+ ┣ 📄 ERD_Diagram.ipeg
+ ┣ 📄 Normalized DB.xlsx
+ ┣ 📄 UI Sample.pdf
+ ┣ 📄 UML.jpeg
+ ┣ 📄 hw3-part1-ZongyuMu.pdf
+ ┣ 📄 hw3-part2-ZongyuMu.pdf
  ┣ 📄 CS542 Project Presentation Slides Phase 3.pptx
  ┣ 📄 Video link.txt
  ┣ 📄 Normalized DB Link.txt
- ┣ 📄 hw4-ZongyuMu-1.zip
- ┣ 📄 CS 542 Project final report.zip
+ ┣ 📄 hw4-part1-ZongyuMu.pdf
+ ┣ 📄 hw4-part2-ZongyuMu.pdf
+ ┣ 📄 CS 542 Proposal.pdf
  ┗ 📄 README.md
 
 Each assignment and project contains database schemas, SQL scripts, reports, and implementation documentation.
